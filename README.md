@@ -16,6 +16,18 @@ The focus of this custom GPT is to be adaptable and user-friendly, engaging with
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [3D Printing](https://github.com/sourceduty/3D_Printing)
+<br>
+[Rugged Storage Boxes](https://github.com/sourceduty/Rugged_Storage_Boxes)
+<br>
+[3D Model Analysis](https://github.com/sourceduty/3D_Model_Analysis)
+<br>
+[3D Model Imaging](https://github.com/sourceduty/3D_Model_Imaging)
+<br>
+[3D STL Manager](https://github.com/sourceduty/3D_STL_Manager)
+<br>
+[Automated 3D Modelling](https://github.com/sourceduty/Automated_3D_Modelling)
+<br>
+[Concept Design](https://github.com/sourceduty/Concept_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
