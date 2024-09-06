@@ -22,6 +22,8 @@ How can I program my 4D print to change over time?
 #
 ### 4D Printing Materials
 
+![4D](https://github.com/user-attachments/assets/e536d5df-0d41-4965-827c-a1662ec4e482)
+
 The table above highlights key materials commonly used in 4D printing, each with unique properties that enable shape transformation or functional changes over time. Shape Memory Polymers (SMPs) and Shape Memory Alloys (SMAs) are among the most widely researched due to their ability to return to pre-defined shapes when exposed to specific triggers like heat or light. SMPs are particularly valuable in industries such as aerospace and biomedical devices for their lightweight properties and versatility, while SMAs are favored for their strength and precision in applications like actuators and stents. Similarly, hydrogels are popular in fields like tissue engineering and drug delivery due to their water-responsive nature, allowing them to swell or contract when exposed to moisture.
 
 Additionally, materials like Liquid Crystal Elastomers (LCEs) and photo-responsive polymers offer more niche, yet promising, applications. LCEs respond to thermal stimuli and have potential in wearable technology and soft robotics, while photo-responsive polymers change shape in reaction to light, making them useful for smart textiles and optical devices. Ceramics and magneto-responsive materials offer structural integrity and functionality in high-temperature or electromagnetic fields, making them valuable in aerospace and robotics. Finally, pH-responsive polymers find use in bioengineering and drug delivery systems, where they react to pH changes in the environment, offering precision control in medical applications.
